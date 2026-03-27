@@ -2,6 +2,10 @@
 
 Task 1: Term Deposit Subscription Prediction (Bank Marketing)
 
+Dataset Link
+
+https://archive.ics.uci.edu/dataset/222/bank+marketing
+
 Objective
 
 To predict whether a bank customer will subscribe to a term deposit during a marketing campaign, enabling data-driven targeting and improved campaign efficiency.
@@ -31,6 +35,10 @@ Optimize campaign resources by focusing on segments with the strongest predictiv
 
 Task 2: Customer Segmentation Using Unsupervised Learning
 
+Dataset Link
+
+https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
 Objective
 
 To segment customers based on their spending habits and propose targeted marketing strategies for each cluster, enabling personalized customer engagement and improved resource allocation.
@@ -57,6 +65,10 @@ Improves customer retention by addressing specific needs of each group.
 Optimizes marketing spend by focusing resources on high-potential segments.
 
 Task 5: Interactive Business Dashboard in Streamlit
+
+Dataset Link
+
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 Objective
 
